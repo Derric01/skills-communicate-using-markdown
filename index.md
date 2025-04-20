@@ -7,3 +7,13 @@
 
 
 ![GitHub Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```javascript
+function greetUser(name) {
+  console.log(`Hello, ${name}! Welcome to Markdown learning.`);
+}
+
+greetUser("Derric");
+```
+
