@@ -17,3 +17,8 @@ function greetUser(name) {
 greetUser("Derric");
 ```
 
+### My Task List ✅
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
